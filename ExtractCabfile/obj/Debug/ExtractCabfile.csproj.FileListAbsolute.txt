@@ -5,3 +5,11 @@ E:\ExtractCabfile\ExtractCabfile\ExtractCabfile\obj\Debug\ExtractCabfile.Propert
 E:\ExtractCabfile\ExtractCabfile\ExtractCabfile\obj\Debug\ExtractCabfile.csproj.GenerateResource.Cache
 E:\ExtractCabfile\ExtractCabfile\ExtractCabfile\obj\Debug\ExtractCabfile.exe
 E:\ExtractCabfile\ExtractCabfile\ExtractCabfile\obj\Debug\ExtractCabfile.pdb
+E:\voipwebbased\ExtractCabfile\obj\Debug\ExtractCabfile.exe
+E:\voipwebbased\ExtractCabfile\obj\Debug\ExtractCabfile.pdb
+E:\voipwebbased\ExtractCabfile\bin\Debug\ExtractCabfile.exe
+E:\voipwebbased\ExtractCabfile\bin\Debug\ExtractCabfile.pdb
+E:\voipwebbased\ExtractCabfile\obj\Debug\ResolveAssemblyReference.cache
+E:\voipwebbased\ExtractCabfile\obj\Debug\ExtractCabfile.Properties.Resources.resources
+E:\voipwebbased\ExtractCabfile\obj\Debug\GenerateResource.read.1.tlog
+E:\voipwebbased\ExtractCabfile\obj\Debug\GenerateResource.write.1.tlog
